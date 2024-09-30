@@ -3,6 +3,7 @@ body {
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -39,4 +40,13 @@ img {
     display: flex;
     overflow-x: auto ;
     
+}
+
+.categoria-musicas img {
+    opacity: 1;
+    border: 1px solid red ;
+}
+
+.categoria {
+    margin-top: 50px;
 }
